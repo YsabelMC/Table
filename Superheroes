@@ -38,7 +38,7 @@
      <td align="center">
        <h4>Hulk</h4>
        <p>
-         <img src="thumbnails/hulk.jpg" alt="Hulk" height="150" width="100">
+         <img src="hulk.jpg" alt="Hulk" height="150" width="100">
        </p>
      </td>
      <td align="center">2008</td>
@@ -51,7 +51,7 @@
      <td align="center">
        <h4>Iron Man</h4>
        <p>
-         <img src="thumbnails/IronMan.png" alt="Iron Man" height="245" width="100">
+         <img src="IronMan.png" alt="Iron Man" height="245" width="100">
        </p>
      <td align="center">2008</td>
      <td align="center">1963</td>
@@ -63,7 +63,7 @@
      <td align="center">
        <h4>Captain America</h4>
        <p>
-         <img src="thumbnails/CaptAmerica.png" alt="Captain America" height="155" width="100">
+         <img src="CaptAmerica.png" alt="Captain America" height="155" width="100">
        </p>
      </td>
      <td align="center">2011</td>
@@ -76,7 +76,7 @@
      <td align="center">
        <h4>Thor</h4>
        <p>
-         <img src="thumbnails/Thor.png" alt="Thor" height="154" width="100">
+         <img src="Thor.png" alt="Thor" height="154" width="100">
        </p>
      </td>
      <td align="center">2011</td>
@@ -89,7 +89,7 @@
      <td align="center">
        <h4>Hawkeye</h4>
        <p>
-         <img src="thumbnails/Hawkeye.png" alt="Hawkeye" height="104" width="100">
+         <img src="Hawkeye.png" alt="Hawkeye" height="104" width="100">
        </p>
      </td>
      <td>2011</td>
@@ -102,7 +102,7 @@
      <td align="center">
        <h4>Black Widow</h4>
        <p>
-         <img src="thumbnails/BlkWid.png" alt="Black Widow" height="68" width="100">
+         <img src="BlkWid.png" alt="Black Widow" height="68" width="100">
        </p>
      </td>
      <td>2010</td>
@@ -115,7 +115,7 @@
      <td align="center">
        <h4>Black Panther</h4>
        <p>
-         <img src="thumbnails/BlkPanther.png" alt="Black Panther" height="132" width="100">
+         <img src="BlkPanther.png" alt="Black Panther" height="132" width="100">
        </p>
      </td>
      <td>2016</td>
@@ -128,7 +128,7 @@
      <td align="center">
        <h4>Doctor Strange</h4>
        <p>
-         <img src="thumbnails/DrStrange.png" alt="Doctor Strange" height="158" width="100">
+         <img src="DrStrange.png" alt="Doctor Strange" height="158" width="100">
        </p>
      </td>
      <td>2016</td>
